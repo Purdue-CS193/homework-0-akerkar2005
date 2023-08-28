@@ -4,6 +4,12 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# Atharva Kerkar's First CS193 Homework
+## Some things I like about CS193:
+- I like that it is taught by students. Makes it more easy to approach the professors for help.
+- I like how it teaches the tools instead of teaching the theory (teaching what is actually important am I right?).
+- I don't know I just wanted a third bullet.
+  
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -11,9 +17,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# The Human Mind
+## Entanglement
+### The Cycle of Depression
 
 - Bulleted
 - List
